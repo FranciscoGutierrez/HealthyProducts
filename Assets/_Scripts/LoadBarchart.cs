@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Load_Barchart : MonoBehaviour {
+public class LoadBarchart : MonoBehaviour {
 
     public GameObject emptyGraphPrefab;
     public WMG_Axis_Graph graph;
