@@ -1,0 +1,87 @@
+[
+  {
+    "picture": "d1.png",
+    "name": "Tofu consequat",
+    "tags": [
+      "soda",
+      "soda",
+      "snack",
+      "snack",
+      "beef"
+    ],
+    "fat": "4.19",
+    "sugars": "9.78",
+    "sodium": "6.26",
+    "energy": "478.35",
+    "barcode": 8214343481,
+    "_id": "58f08cb71112af2e78263bab"
+  },
+  {
+    "picture": "d8.png",
+    "name": "Mangoes magna",
+    "tags": [
+      "soda",
+      "sweet",
+      "drink",
+      "sweet",
+      "soda"
+    ],
+    "fat": "8.61",
+    "sugars": "7.81",
+    "sodium": "0.06",
+    "energy": "55.95",
+    "barcode": 9144002809,
+    "_id": "58f08cb89c3247a2cbe087d2"
+  },
+  {
+    "picture": "d7.png",
+    "name": "Fish qui",
+    "tags": [
+      "veggies",
+      "beef",
+      "beef",
+      "sweet",
+      "drink"
+    ],
+    "fat": "3.54",
+    "sugars": "6.42",
+    "sodium": "0.13",
+    "energy": "169.84",
+    "barcode": 8284102831,
+    "_id": "58f08cb841e11b5a45fca107"
+  },
+  {
+    "picture": "d5.png",
+    "name": "Pineapples fugiat",
+    "tags": [
+      "veggies",
+      "soda",
+      "beer",
+      "beef",
+      "beer"
+    ],
+    "fat": "9.98",
+    "sugars": "2.52",
+    "sodium": "3.14",
+    "energy": "276.02",
+    "barcode": 8704272178,
+    "_id": "58f08cb8125307e79a90b2b9"
+  },
+  {
+    "picture": "d1.png",
+    "name": "Oatmeal tempor",
+    "tags": [
+      "cheese",
+      "cheese",
+      "soda",
+      "veggies",
+      "beer"
+    ],
+    "fat": "7.74",
+    "sugars": "8.21",
+    "sodium": "5.56",
+    "energy": "99.53",
+    "barcode": 8565282141,
+    "_id": "58f08cb8df56fb2b5d0eed6c"
+  }
+]
