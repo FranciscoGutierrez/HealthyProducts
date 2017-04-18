@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Alternatives : MonoBehaviour {
+public class Recommendations : MonoBehaviour {
 
     public GameObject itemPrefab;
     public string productID;
